@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona edad="68" nombre="Francisca">
+    <hijos>
+        <persona edad="45" nombre="Jeremías"/>
+    </hijos>
+    <hobbies>
+        <elemento>Leer</elemento>
+        <elemento>Senderismo</elemento>
+        <elemento>Redes sociales</elemento>
+    </hobbies>
+</persona>

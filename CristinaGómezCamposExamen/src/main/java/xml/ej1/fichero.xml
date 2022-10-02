@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persona edad="31" nombre="Quino">
+    <hijos>
+        <persona edad="5" nombre="Mafalda"/>
+        <persona edad="3" nombre="Guille"/>
+    </hijos>
+    <hobbies>
+        <elemento>Ajedrez</elemento>
+        <elemento>Natación</elemento>
+    </hobbies>
+</persona>

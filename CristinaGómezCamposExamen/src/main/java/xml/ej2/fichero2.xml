@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona>
+    <edad>68</edad>
+    <sobrinos>
+        <sobrino>
+            <edad>45</edad>
+            <nombre>Jeremías</nombre>
+        </sobrino>
+    </sobrinos>
+    <hobbies>
+        <hobbie>Leer</hobbie>
+        <hobbie>Senderismo</hobbie>
+        <hobbie>Redes sociales</hobbie>
+    </hobbies>
+    <nombre>Francisca</nombre>
+</persona>

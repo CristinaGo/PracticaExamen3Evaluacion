@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persona>
+    <edad>30</edad>
+    <sobrinos>
+        <sobrino>
+            <edad>3</edad>
+            <nombre>Jaimito</nombre>
+        </sobrino>
+        <sobrino>
+            <edad>3</edad>
+            <nombre>Jorgito</nombre>
+        </sobrino>
+        <sobrino>
+            <edad>3</edad>
+            <nombre>Juanito</nombre>
+        </sobrino>
+    </sobrinos>
+    <hobbies>
+        <hobbie>Leer</hobbie>
+        <hobbie>Calistenia</hobbie>
+        <hobbie>Hacer el vago</hobbie>
+    </hobbies>
+    <nombre>Pato Donald</nombre>
+</persona>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<estudiante>
+    <DNI>66666666z</DNI>
+    <nombre>Carla</nombre>
+    <apellidos>Nevada</apellidos>
+    <curso>2</curso>
+    <ciclo>DAm</ciclo>
+    <módulos>
+        <módulo>Programación</módulo>
+        <módulo>Bases de Datos</módulo>
+        <módulo>Lenguajes de marcas</módulo>
+    </módulos>
+</estudiante>
